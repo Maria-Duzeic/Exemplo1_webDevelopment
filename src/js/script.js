@@ -16,6 +16,10 @@ let nome4=true;
 console.log(typeof nome4)
 
 
+
+
+
+
 //{}= objeto (lista)
 //[]= array - vetor - parecido com matriz - quase banco de dados(lista de objetos)
 //()= parametro - ex: (v1,v2) - (chama método)
